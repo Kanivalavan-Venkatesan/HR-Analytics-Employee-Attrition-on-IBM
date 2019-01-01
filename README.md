@@ -1,2 +1,1 @@
-# HR-Analytics-Employee-Attrition-on-IBM
-HR Analytics – Employee Attrition on IBM
+The objective of this project is to predict the employee attrition using various classifications algorithms like Decision Tree, Logistic Regression, and Random Forest and measure the performance of the models using various metrics such as precision, recall, and AUC. I wouldn’t narrow down only in prediction by applying some machine learning algorithms. My journey of this project would include all the data mining life cycles such as data understanding/ exploration, data preparation, modelling and evaluation etc. using the R.
